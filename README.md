@@ -1,0 +1,2 @@
+# mygame-policy
+privacy/terms
